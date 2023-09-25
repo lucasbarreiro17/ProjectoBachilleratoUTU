@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Release\ClassLibrary2.dll
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Release\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Release\ClassLibrary1.dll
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Release\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\19\ClassLibrary2\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\19\ClassLibrary2\obj\Release\ClassLibrary2.dll
+C:\Users\lucas\Desktop\19\ClassLibrary2\obj\Release\ClassLibrary2.pdb

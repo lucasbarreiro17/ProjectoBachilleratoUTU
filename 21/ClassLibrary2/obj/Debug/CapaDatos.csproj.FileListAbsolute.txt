@@ -1,0 +1,242 @@
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Downloads\Programa\Login\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\OneDrive\Escritorio\Login\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\Login\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\Login\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\Login\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\Login\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\Login\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Login\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\Login\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\6\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\6\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\6\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\6\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\6\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\6\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\6\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\OneDrive\Escritorio\7\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\7\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\7\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\7\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\7\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\7\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\7\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\7\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\8\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\8\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\8\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\8\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\8\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\8\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\8\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Docente\Documents\Visual Studio 2013\Projects\9\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\9.5\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\9.5\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\9.5\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\9.5\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\9.5\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\10\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\10\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\10\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\10\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\10\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\10\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\10\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\10\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\12\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\12\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\12\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\12\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Downloads\12\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Downloads\12\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Downloads\12\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Downloads\12\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Downloads\12\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Downloads\12\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Downloads\12\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\12\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\12\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\12\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\12\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\13\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\13\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\13\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\13\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\13\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\13\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\13\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\13\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\mscorlib.dll
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\es\mscorlib.resources.dll
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\normidna.nlp
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\normnfc.nlp
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\normnfd.nlp
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\normnfkc.nlp
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\normnfkd.nlp
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\agust\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\matia\Documents\Visual Studio 2013\Projects\14\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\14\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\14\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\14\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\14\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\14\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\14\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\14\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\15\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\15\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\15\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\15\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\15\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\15\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\15\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\15\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\16\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\16\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\16\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\16\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\16\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\16\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\16\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\16\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\17\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\17\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\17\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\17\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\17\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\17\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\17\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\17\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\PROGRAMA ARREGLADO\17\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\18\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\18\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\18\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\18\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\18\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\18\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\18\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\18\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\19\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\19\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\19\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\USER\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Desktop\19\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\19\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Desktop\19\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\19\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\USER\Desktop\19\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\21\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\21\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\lucas\Desktop\21\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\lucas\Desktop\21\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\lucas\Desktop\21\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\21\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\lucas\Desktop\21\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\21\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
